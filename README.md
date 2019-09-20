@@ -1,2 +1,13 @@
-# rp4
-This is the home of Raspberry Pi 4B projects!
+# Projects on Raspberry Pi 4B
+
+- motion
+- face_recognition
+
+### motion
+
+This is used for monitor and detect motion.
+
+### face_recognition
+
+This is used for detect and recognize people face
+
