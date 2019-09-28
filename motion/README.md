@@ -18,6 +18,14 @@ $ sudo motion
 $ sudo service motion stop
 ```
 
+### debug
+```shell
+$ cd ~/workspace
+$ ls ./motion_outputs ./motion_detect
+$ rm -rf ./motion_outputs/* ./motion_detect/*
+$ mymotion
+```
+
 ### log
 ```shell
 $ tail -f /var/log/motion/motion.log
